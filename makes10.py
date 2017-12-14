@@ -11,4 +11,4 @@ def makes10(a, b):
   elif abs(a+b)==10:
     x = True
   else: False
-  return x;
+  return x
