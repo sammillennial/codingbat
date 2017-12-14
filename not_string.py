@@ -7,7 +7,7 @@
 def not_string(str):
   x = str.startswith('not')
   if x==True:
-    str = str;
+    str = str
   else:
     str = 'not ' + str
   return str
