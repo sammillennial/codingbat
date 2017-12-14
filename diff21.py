@@ -8,4 +8,4 @@ def diff21(n):
   x = abs(n-21)
   if (n>21):
     x = 2*x
-  return x;  
+  return x
