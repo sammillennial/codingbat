@@ -9,4 +9,4 @@ def front3(str):
     str = str + str + str
   else:
     str = str[0:3] + str[0:3] + str[0:3]
-  return str;
+  return str
